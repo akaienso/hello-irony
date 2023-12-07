@@ -9,3 +9,5 @@ This is not just a plugin, it symbolizes the waning hope and  enthusiasm of an e
 == Description ==
 
 This is not just a plugin, it symbolizes the waning hope and  enthusiasm of an entire generation summed up in three words sung most famously by Alanis Morrissette: Isn't it ironic? When activated you will randomly see a lyric from <cite>Ironic</cite> in the upper right of your admin screen on every page. Forked from the classic "Hello irony" plugin by Matt Mullenweg.
+
+If you like this, [buy me a taco](https://www.buymeacoffee.com/rmoore.dev).
