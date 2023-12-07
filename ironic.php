@@ -5,8 +5,8 @@
  */
 /*
 Plugin Name: Hello Irony
-Plugin URI: https://rmoore.dev/wp/plugins/hello-irony/
-Description: This is not just a plugin, it symbolizes the lack of hope and waning enthusiasm of an entire generation summed up in three words sung most famously by Alanis Morrissette: Isn't it ironic? When activated you will randomly see a lyric from <cite>Ironic</cite> in the upper right of your admin screen on every page. Forked from the classic "Hello irony" plugin by Matt Mullenweg.
+Plugin URI: https://wp.rmoore.dev/plugins/hello-irony/
+Description: This is not just a plugin, it symbolizes the waning hope and dwindling enthusiasm of an entire generation, summed up in three words sung most famously by Alanis Morrissette: Isn’t it ironic? When activated, you will randomly see a lyric from Ironic in the upper right of your admin screen on every page. Forked from the classic “Hello Dolly” plugin by Matt Mullenweg.
 Author: Rob Moore
 Version: 1.0
 Author URI: http://rmoore.dev/
